@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **on several NLP projects including my university diploma - Speaker Diarization**
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **PyTorch** and **LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/klychliiev](https://github.com/klychliiev)
 
