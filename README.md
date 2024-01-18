@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klychliiev&label=Profile%20views&color=0e75b6&style=flat" alt="klychliiev" /> </p>
 
-- 🔭 I’m currently working on **on several NLP projects including my university diploma - Speaker Diarization**
+- All of my projects are available at [https://github.com/klychliiev](https://github.com/klychliiev)
 
-- 🌱 I’m currently learning **PyTorch** and **LLMs**
+- NLP, Data Science, Python Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/klychliiev](https://github.com/klychliiev)
-
-- 💬 Ask me about **nlp, spacy, tensorflow**
-
-- 📫 How to reach me **kyrylo.klychliiev@gmail.com**
+- Contact me via **kyrylo.klychliiev@gmail.com** and **https://t.me/klychliiev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
