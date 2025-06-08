@@ -31,5 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/johndoe" target="_blank">
-  <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png)" width="45" height="45" alt="Telegram"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" width="45" height="45" alt="Telegram"/>
 </a>
