@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -26,3 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"  />
  
 </p>
+
+<a href="https://www.linkedin.com/in/john-doe" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/johndoe" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" alt="Telegram"/>
+</a>
