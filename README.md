@@ -28,7 +28,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/john-doe" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 <a href="https://t.me/johndoe" target="_blank">
   <img src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" width="45" height="45" alt="Telegram"/>
