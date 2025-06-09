@@ -29,9 +29,9 @@
 </p>
 
 <h2> Connect and contact me!</h2>
-<a href="https://www.linkedin.com/in/john-doe" target="_blank">
+<a href="https://www.linkedin.com/in/john-doe](https://www.linkedin.com/in/kyrylo-klychliiev/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
-<a href="https://t.me/johndoe" target="_blank">
+<a href="https://t.me/klychliiev" target="_blank">
   <img src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" width="45" height="45" alt="Telegram"/>
 </a>
