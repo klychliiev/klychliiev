@@ -1,8 +1,4 @@
-## 👋
-<h1>AI/ML Engineer from 🇺🇦 </h1>
 
-<h2> Some Tools I Have Used and Learned</h2>
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
@@ -27,11 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"  />
  
 </p>
-
-<h2> Connect and contact me!</h2>
-<a href="https://www.linkedin.com/in/john-doe](https://www.linkedin.com/in/kyrylo-klychliiev/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
-</a>
-<a href="https://t.me/klychliiev" target="_blank">
-  <img src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" width="45" height="45" alt="Telegram"/>
-</a>
